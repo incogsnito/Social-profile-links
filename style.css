@@ -68,7 +68,7 @@ p{
   font-weight: bold;
   transition: 0.25s ease-in-out;
 }
-.btn:hover{
+.link:hover{
   cursor: pointer;
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 12%);
@@ -79,5 +79,6 @@ p{
   border-radius: 45px;
   object-fit: cover;
 }
+
 
 
